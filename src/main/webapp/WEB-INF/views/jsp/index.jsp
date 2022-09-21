@@ -42,7 +42,7 @@
 		<div class="col-md-8">
 			<h2>Welcome To Mithun Technologies, Marathahalli, Banglore.</h2>
 			<h3>Contact @ +91-8296242028 ,+91-9980923226,+91-9980923216</h3>
-			<h4>HELLO WORLD</h4>
+			<h4>HELLO WORLD hi </h4>
 		</div>	
 	</div>
 
